@@ -33,7 +33,7 @@ class PaymentService {
 
       // Step 2: Open Razorpay checkout passing the order ID
       var options = {
-        'key': 'YOUR_RAZORPAY_KEY', // Update with your actual publishable key
+        'key': 'rzp_test_1DP5mmOlF5G5ag', // Update with your actual publishable key
         'amount': (amount * 100).toInt(),
         'name': 'Guidly Travel',
         'description': 'Trip Payment',

@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "984042951578",
+    "project_id": "guidly-2b842",
+    "storage_bucket": "guidly-2b842.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:984042951578:android:dcb7e8b10300b878d82023",
+        "android_client_info": {
+          "package_name": "com.guidly.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCfnS5AUgNnWgQUhnUskrS-MACpUTbfWBk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
